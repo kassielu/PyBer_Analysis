@@ -4,7 +4,7 @@
 This project we will be creating visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
 
 ## Results
-Urban city type dominates in terms of total fares (63%), total rides (68%) and total drivers (81%). Suburban city type came in second with total fares (31%), total rides (26%) and total drivers (17%). Coming in last is rural city type with total fares (7%), total rides (5%) and total drivers (3%). Surprising even with lower driver counts and total rides in rural city type, the average fare is $5 higher than suburban city type and $11 more than urban city type. 
+Urban city rides dominates in terms of total fares (63%), total rides (68%) and total drivers (81%). Suburban city rides came in second with total fares (31%), total rides (26%) and total drivers (17%). Coming in last is rural city rides with total fares (7%), total rides (5%) and total drivers (3%). Surprising even with lower driver counts and total rides in rural rides, the average fare is $5 higher than suburban city rides and $11 more than urban city rides. 
 
 For additional findings please refer to the following figures:
 - [PyBer Ride-Sharing Data](analysis/Fig1.png)
