@@ -4,15 +4,20 @@
 This project we will be creating visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
 
 ## Results
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-- PyBer Ride-Sharing Data
-- Ride Count Data (2019)
-- Ride Fare Data (2019)
-- Driver Count Data (2019)
-- % of Total Fares by City Type - Urban city type leads by 63%, followed by Suburban city type at 31%, finally Rural city type at 7%.
-- % of Total Rides by City Type - 
-- % of Total Drivers by City Type - Urban city type leads with 81% of total drivers, followed by Subarban city type at 17% then Rural at 3%.
-- Total Fare by City Type - Urban city type leads in total fare in the first 4 months of 2019.
+Urban city type dominates in terms of total fares (63%), total rides (68%) and total drivers (81%). Suburban city type came in second with total fares (31%), total rides (26%) and total drivers (17%). Coming in last is rural city type with total fares (7%), total rides (5%) and total drivers (3%). Surprising even with lower driver counts and total rides in rural city type, the average fare tends to be higher than both suburban and urban city types.
+
+For additional findings please refer to the following figures:
+- [PyBer Ride-Sharing Data](analysis/Fig1.png)
+- [Ride Count Data (2019)](analysis/Fig2.png)
+- [Ride Fare Data (2019)](analysis/Fig3.png)
+- [Driver Count Data (2019)](analysis/Fig4.png)
+- [% of Total Fares by City Type](analysis/Fig5.png)
+- [% of Total Rides by City Type](analysis/Fig6.png)
+- [% of Total Drivers by City Type](analysis/Fig7.png)
+- [Total Fare by City Type](analysis/PyBer_fare_summary.png)
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+Our recommendations our CEO, V. Isualize, for addressing any disparities among the city types are:
+-
+-
+-
